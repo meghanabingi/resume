@@ -1,0 +1,42 @@
+{
+  "Career":{
+    "info":"To be a proffesional in Web developing and being a part of Google and also to pursue Challenging Career"
+  },
+  "education":[
+  {
+    "degree":"SSC",
+    "school":"Keshava Reddy Concept School",
+    "data":["2013","87%"]
+  },
+  {
+    "degree":"Intermediate",
+    "school":"Sri Chaithanya Junior College ",
+    "data":["2013-2015","87%"]
+  },
+  {
+    "degree":"B-tech(C.S.E)",
+    "school":"G Pullaiah College  of Engineering and Technology",
+    "data":["2015-2019","70%"]
+  }
+],
+"skills":[
+  {
+    "name":"Languages",
+  "info":["R","C#","Java","Python","C++"]  },
+  {
+    "name":"operating system",
+  "info":["win-10","Fedora","redhat","ubuntu"]  },
+  {
+    "name":"Data Bases",
+  "info":["MySql","mongoDB","Oracle","PDO"]  },
+  {
+    "name":"Web Technologies",
+  "info":["HTML","JavaScript","CSS"]  },
+  {
+    "name":"FrameWorks",
+  "info":[".net","Bootstrap","CodeIgniter"]  },
+  {
+    "name":"Libraries",
+  "info":["Jquery"]  }
+]
+}
